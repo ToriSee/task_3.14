@@ -67,6 +67,7 @@ GIT logo by Jason Long - http://git-scm.com/downloads/logos, license: [CC BY 3.0
 4. [git commit](./commit.md)
 5. [git push](./push.md)
 6. [git pull](./pull.md)
+7. [git clean](./clean.md)
 
 ---
 
